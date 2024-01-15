@@ -1,0 +1,22 @@
+body{
+    background-image: url(../assets/pictures/peter-burdon-VWy0C3oOmQk-unsplash.jpg) ;
+    background-size: cover;
+    background-position: 20% 10%;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 1.2rem;
+}
+@media  screen and (min-width: 620px){
+    body{
+        background-position: 20% 30%;
+        }
+    }
+@media  screen and (min-width: 1020px){
+    body{
+        background-image: url(../assets/pictures/shiyang-xu-Rvqz1HsrkJQ-unsplash.jpg) ;
+    background-size: cover;
+    background-position: 20% 10%;
+    background-repeat: no-repeat;
+
+        }
+    }
