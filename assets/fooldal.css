@@ -1,18 +1,18 @@
-body{
+header{
     background-image: url(../assets/pictures/peter-burdon-VWy0C3oOmQk-unsplash.jpg) ;
     background-size: cover;
     background-position: 20% 10%;
     background-repeat: no-repeat;
-    color: white;
-    font-size: 1.2rem;
+   font-size: 1.4rem;
+   height: 100vh;
 }
 @media  screen and (min-width: 620px){
-    body{
+    header{
         background-position: 20% 30%;
         }
     }
 @media  screen and (min-width: 1020px){
-    body{
+    header{
         background-image: url(../assets/pictures/shiyang-xu-Rvqz1HsrkJQ-unsplash.jpg) ;
     background-size: cover;
     background-position: 20% 10%;
@@ -20,3 +20,9 @@ body{
 
         }
     }
+
+
+.modal{
+    display: flex;
+    width: 50wv;
+}
