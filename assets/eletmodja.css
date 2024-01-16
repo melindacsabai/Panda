@@ -3,7 +3,10 @@
     font-weight: 400;
 
 }
-
+main{
+    background-color: rgba(14, 150, 50, 0.3);
+    
+}
 header{
     background-size: cover;
     background-image: url(../assets/pictures/shiyang-xu-Rvqz1HsrkJQ-unsplash.jpg);
@@ -50,4 +53,6 @@ section.two .card-one{
 }
 }
 
-
+footer{
+    background-color:rgba(14, 150, 50, 0.3);
+}
