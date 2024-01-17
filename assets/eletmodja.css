@@ -7,13 +7,16 @@ main{
     background-color: rgba(14, 150, 50, 0.3);
     
 }
-header{
+.section-header{
     background-size: cover;
     background-image: url(../assets/pictures/shiyang-xu-Rvqz1HsrkJQ-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     height: 60vh;
    
+}
+nav{
+    background-color:  rgba(14, 150, 50, 0.3);
 }
 .text{
     color: white;
