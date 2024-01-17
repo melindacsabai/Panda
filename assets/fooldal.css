@@ -1,3 +1,9 @@
+*{
+    font-family: 'Aleo', serif;
+
+
+}
+
 header{
     background-image: url(../assets/pictures/peter-burdon-VWy0C3oOmQk-unsplash.jpg) ;
     background-size: cover;
