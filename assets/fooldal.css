@@ -5,6 +5,7 @@
 }
 
 body{
+
     background-image: url(../assets/pictures/peter-burdon-VWy0C3oOmQk-unsplash.jpg) ;
     background-size: cover;
     background-position: 20% 10%;
@@ -20,6 +21,13 @@ nav{
 @media  screen and (min-width: 620px){
     header{
         background-position: 20% 50%;
+
+}
+}
+@media  screen and (min-width: 620px){
+    header{
+        background-position: 20% 30%;
+
         }
     }
 @media  screen and (min-width: 1020px){
@@ -31,7 +39,6 @@ nav{
 
         }
     }
-
 
 h1{
     font-weight: 100;
@@ -66,5 +73,5 @@ hr{
  background-image: linear-gradient(to right, rgba(187, 187, 187, 0), rgba(172, 172, 172, 0.75), rgba(255, 255, 255, 0));
  width: 75%;
  margin-left:12%;
-    
+
 }
