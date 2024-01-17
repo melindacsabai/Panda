@@ -1,10 +1,16 @@
+*{
+    font-family: 'Aleo', serif;
+
+
+}
+
 body{
     background-image: url(../assets/pictures/peter-burdon-VWy0C3oOmQk-unsplash.jpg) ;
     background-size: cover;
     background-position: 20% 10%;
     background-repeat: no-repeat;
-    color: white;
-    font-size: 1.2rem;
+   font-size: 1.4rem;
+   height: 100vh;
     height: 100vh;
 }
 
@@ -12,12 +18,12 @@ nav{
     background-color: black;
 }
 @media  screen and (min-width: 620px){
-    body{
+    header{
         background-position: 20% 50%;
         }
     }
 @media  screen and (min-width: 1020px){
-    body{
+    header{
         background-image: url(../assets/pictures/shiyang-xu-Rvqz1HsrkJQ-unsplash.jpg) ;
     background-size: cover;
     background-position: 20% 10%;
@@ -25,6 +31,28 @@ nav{
 
         }
     }
+
+
+h1{
+    font-weight: 100;
+    margin-top: 30vh;
+    font-size: 4rem;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+}
+hr{
+  
+ background-image: linear-gradient(to right, rgba(187, 187, 187, 0), rgba(172, 172, 172, 0.75), rgba(255, 255, 255, 0));
+ width: 75%;
+ margin-left: 12%;
+}
+
+.modal{
+    display: flex;
+}
+    
+
+
 
 h1{
     font-weight: 100;

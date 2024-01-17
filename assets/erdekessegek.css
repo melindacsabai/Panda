@@ -1,0 +1,67 @@
+*{
+    font-family: 'Aleo', serif;
+    font-weight: 400;
+
+}
+nav{
+    background-color:  rgba(14, 150, 50, 0.3);
+}
+
+.box{
+    height: 15rem;
+}
+.img1{
+    background-image: url(../assets/pictures/yu-wang-fFO5DsFV5gk-unsplash.jpg);
+    background-size: cover;
+    background-position: 0% 45%;
+}
+@media screen and (min-width:1020px) {
+    .img1{
+        background-position: bottom;
+    }
+    .box{
+        height: 20rem;
+    }
+}
+@media screen and (min-width:768px) {
+    .img1{
+        background-position: center;
+    }
+    .box{
+        height: 20rem;
+    }
+}
+
+.img2{
+    background-image: url(../assets/pictures/kerry-hu-qgpLJ1T8KeA-unsplash.jpg);
+    background-size: cover;
+    background-position: 0% 45%;
+}
+.img3{
+    background-image: url(../assets/pictures/download.jpg);
+    background-size: cover;
+    background-position: 0% 45%;
+   
+  
+}
+.img4{
+    background-image: url(../assets/pictures/pascal-muller-4EajIuUxgAQ-unsplash.jpg);
+    background-size: cover;
+    background-position: 0% 45%;
+
+}
+.img5{
+    background-image: url(../assets/pictures/sid-balachandran-_9a-3NO5KJE-unsplash\ \(1\).jpg);
+    background-size: cover;
+    background-position: 0% 45%;
+
+}
+p{
+    font-weight: 300;
+}
+footer{
+    background-color:rgba(14, 150, 50, 0.3);
+    font-size:.7rem;
+    font-weight: 300;
+
+}
