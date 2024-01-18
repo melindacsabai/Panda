@@ -1,0 +1,44 @@
+*{
+    font-family: 'Aleo', serif;
+    font-weight: 300;
+
+}
+
+nav{
+    background-color:  rgba(14, 150, 50, 0.3);
+}
+.section-header{
+    background-size: cover;
+    background-image: url(../assets/pictures/shiyang-xu-Rvqz1HsrkJQ-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    color: white;
+    font-weight: 100;
+   
+}
+main{
+
+    background-color:  rgba(14, 150, 50, 0.3);
+  
+}
+.carousel.slide{
+    width: 50%;
+}
+@media screen and (max-width:770px) {
+    .carousel.slide{
+        width: 75%;
+    }
+}
+.picture{
+    width: 25%;
+}
+@media screen and (max-width:770px) {
+    .picture{
+        width: 75%;
+    }
+    
+}
+footer{
+    background-color:  rgba(14, 150, 50, 0.3);
+}
