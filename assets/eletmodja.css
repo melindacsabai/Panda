@@ -52,10 +52,22 @@ section.two .card-one{
 
 .card-text.m-3{
  font-size: .8rem;
-
+ 
 }
 }
+p{
+    font-weight: 300;
+    font-size: .9rem;
+    line-height: 20px;
+}
 
+.tudnivalok{
+    font-size: 1rem;
+    line-height: 25px;
+  
+}
 footer{
     background-color:rgba(14, 150, 50, 0.3);
+    font-size:.7rem;
+    font-weight: 300;
 }
