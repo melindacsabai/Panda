@@ -1,0 +1,56 @@
+*{
+
+    font-weight: 300;
+  
+
+}
+main{
+    background-color: rgba(14, 150, 50, 0.3);
+}
+form{
+background-color: white;
+}
+nav{
+    font-weight: 400;
+}
+.section-header{
+    background-size: cover;
+    background-image: url(../assets/pictures/shiyang-xu-Rvqz1HsrkJQ-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    color: white;
+    
+   
+}
+.section-header h1{
+    font-weight: 200;
+    font-size: 2rem;
+}
+ h3{
+    font-weight: 200;
+    font-size: 1.5rem;
+}
+ h4{
+    font-weight: 200;
+ 
+}
+
+textarea{
+    background-image: url(../assets/pictures/sid-balachandran-_9a-3NO5KJE-unsplash\ \(1\).jpg);
+    background-size:cover;
+    opacity: .3;
+  
+}
+@media screen and (min-width: 760px) {
+    form{
+        width: 50vw;
+    }
+ 
+}
+footer{
+    color:white;
+    font-size:.7rem;
+   
+  
+}
