@@ -33,6 +33,15 @@ nav{
 
         }
     }
+@media  screen and (min-width: 1350px){
+    body{
+        background-image: url(../assets/pictures/shiyang-xu-Rvqz1HsrkJQ-unsplash.jpg) ;
+    background-size: cover;
+    background-position: 40%;
+    background-repeat: no-repeat;
+
+        }
+    }
 
 
 h1{
